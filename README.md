@@ -16,9 +16,34 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```
+<html>
+<head>
+<style type = "text/css">
+h1
+   {
+   
+    border-bottom-style:dashed;
+    border-top-style:solid; 
+    border-left-style:double; 
+    border-right-style:groove;
+    border-width:25px;
+    font :Times Newroman;
+    border-bottom-color:cyan;
+    border-top-color:yellow;
+    border-left-color:green; 
+    border-right-color:red;
+   }
+</style>
+</head>
+<body>
+<h1> Saveetha Engineering College</h1>
+</body>
+</html>
+```
 
 ## OUTPUT
+![Screenshot (39)](https://github.com/SrivarshanGurumoorthy/Ex05_Web-Design/assets/127816583/2598a656-d232-4403-adfb-224654308dc5)
 
 
 ## RESULT
