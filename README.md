@@ -30,7 +30,7 @@ h1
 
 p
    {
-   
+    text-align:left;
     border-bottom-style:dashed;
     border-top-style:solid; 
     border-left-style:double; 
