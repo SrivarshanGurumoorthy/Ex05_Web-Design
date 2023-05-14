@@ -49,6 +49,12 @@ p
 <p>    
             NAME:G.SRIVARSHAN
             <br>
+            FATHER NAME:N.GURUMOORTHY
+            <br>
+            MOTHER NAME: G.MENAGA
+            <br>
+            ADDRESS:149,KONDAL MAIN ROAD 24,VILLIYANALLUR MAYILADTHURAI
+            <br>
             DEPARTMENT:B.TECH AGRICULTURAL ENGINEERING
             <br>
             REGISTER NUMBER:212222250027
@@ -65,7 +71,8 @@ p
 ```
 
 ## OUTPUT
-![Screenshot (40)](https://github.com/SrivarshanGurumoorthy/Ex05_Web-Design/assets/127816583/4a04e464-189b-4889-98f6-109186c01d02)
+![Screenshot (41)](https://github.com/SrivarshanGurumoorthy/Ex05_Web-Design/assets/127816583/4c0afa2c-7a6a-4e0d-b400-4382e67c20b0)
+
 
 ## RESULT
   Bio-data with appropriate CSS styles and properties is created successfully.
