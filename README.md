@@ -21,6 +21,14 @@
 <head>
 <style type = "text/css">
 h1
+  {
+   background-color:PINK;
+    color:green;
+    text-align:center;
+  }
+
+
+p
    {
    
     border-bottom-style:dashed;
@@ -37,14 +45,27 @@ h1
 </style>
 </head>
 <body>
-<h1> Saveetha Engineering College</h1>
+            <h1>BIO-DATA</h1>
+<p>    
+            NAME:G.SRIVARSHAN
+            <br>
+            DEPARTMENT:B.TECH AGRICULTURAL ENGINEERING
+            <br>
+            REGISTER NUMBER:212222250027
+            <br>
+            YEAR:FIRST YEAR
+            <br>
+            HOBBIES:SWIMMING,PLAYING HOCKEY,ATHLETICS
+            <br>
+            PHONE NUMBER:8056698845
+            <br>
+            E-MAIL ID:srivarshan934@GMAIL.COM</p>
 </body>
 </html>
 ```
 
 ## OUTPUT
-![Screenshot (39)](https://github.com/SrivarshanGurumoorthy/Ex05_Web-Design/assets/127816583/2598a656-d232-4403-adfb-224654308dc5)
-
+![Screenshot (40)](https://github.com/SrivarshanGurumoorthy/Ex05_Web-Design/assets/127816583/4a04e464-189b-4889-98f6-109186c01d02)
 
 ## RESULT
   Bio-data with appropriate CSS styles and properties is created successfully.
