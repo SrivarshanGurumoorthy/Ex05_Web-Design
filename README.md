@@ -19,7 +19,7 @@
 ```
 <html>
 <head>
-<style type = "text/css">
+<script type = "text/css">
 h1
   {
    background-color:PINK;
@@ -42,7 +42,7 @@ p
     border-left-color:green; 
     border-right-color:red;
    }
-</style>
+</script>
 </head>
 <body>
             <h1>BIO-DATA</h1>
